@@ -1,0 +1,23 @@
+{
+  "name": "void-replacer",
+  "version": "1.0.0",
+  "description": "Add replacer that let you replace stuff from array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrthomas20121/void-replacer.git"
+  },
+  "keywords": [
+    "Replacer",
+    "void"
+  ],
+  "author": "Mrthomas20121",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mrthomas20121/void-replacer/issues"
+  },
+  "homepage": "https://github.com/Mrthomas20121/void-replacer#readme"
+}
